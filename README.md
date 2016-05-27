@@ -17,3 +17,6 @@ Questions / Comments?
 Please visit [http://help.postageapp.com](http://help.postageapp.com)
 <ahref="https://console.megamafrica.com"target="_blank">
 <img src="https://s3-ap-southeast-1.amazonaws.com/megampub/images/megamafrica/DEPLOY-TO-MEGAM-AFRICA2.png" alt="wordpres button"/>
+
+###To deploy your App 
+[![img](https://s3-ap-southeast-1.amazonaws.com/megampub/images/megamafrica/DEPLOY-TO-MEGAM-AFRICA2.png)](https://console.megamafrica.com)
